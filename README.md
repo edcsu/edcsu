@@ -16,4 +16,5 @@ Here are some ideas to get you started:
 -->
 ![Keith's GitHub stats](https://github-readme-stats.vercel.app/api?username=edcsu&theme=radical&show_icons=true)
 
-[![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edcsu&layout=compact)]
+![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=edcsu&langs_count=8&layout=compact)
+
