@@ -1,9 +1,5 @@
 ### Hi there 👋, my name is Keith 
-I am a software engineer with experience in fintech, enterprise and high-performance web technologies. 
-I contribute to innovative, groundbreaking software solutions that meet business demand for agility, flexibility, mobility and a superb cloud experience
-High-performance technologist skilled at defining, designing and implementing a highly secure, continuous-deployment pipeline to update applications in cloud environments using agile.
-I bring a strong focus on “voice of the customer” into the software development function to ensure product and customer success.
-But the most satisfying part of this journey is contributing, sharing my learnings, from the challenges that I face, with the community to enhancethe software world.
+I am an experienced software engineer specializing in fintech, enterprise, and high-performance web technologies. Skilled in developing secure, agile, and cloud-based solutions while prioritizing customer needs. Passionate about innovation, continuous learning, and sharing knowledge to improve the software community.
 <!--
 **edcsu/edcsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -13,13 +9,13 @@ Here are some ideas to get you started:
 -->
 - 🌱 I’m currently learning `React`
 <!--
-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
 -->
+- 👯 I’m looking to collaborate on `on thrilling projects`
+- 💬 Ask me about `C# and JavaScript`
 - 📫 How to reach me: [my email](skeith696@gmail.com)
 <!--
-- 😄 Pronouns: ...
+- 😄 Pronouns: He
 - ⚡ Fun fact: ...
 -->
  
